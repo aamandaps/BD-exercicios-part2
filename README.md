@@ -1,1 +1,1 @@
-# BD-exercicios-part2
+# Exercícios Banco de Dados - Especialização, Generealização e Herança.
