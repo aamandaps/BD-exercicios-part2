@@ -86,7 +86,7 @@ organizados por uma determinada Agência, guardando dados, como Nome_Desfile,
 a data, o Local, o Estilo_do_Desfile. Para cada Desfile, deseja-se saber quais foram
 os modelos que desfilaram, quais foram os clientes que o frequentaram, e quais
 pessoas comuns também estiveram presentes, ou seja, que assistiram ao desfile. É
-interessante notar que os desfiles diyidem-se naturalmente entre Desfiles de Moda-
+interessante notar que os desfiles dividem-se naturalmente entre Desfiles de Moda-
 Verao e Desfiles de Moda-Inverno. E de interesse também guardar informações
 sobre o número de pessoas que fequentou um determinado desfile, a duração em
 minutos de um determinado desfile e quais foram os patrocinadores de um
